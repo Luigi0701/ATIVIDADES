@@ -1,0 +1,20 @@
+Algoritmo "NUMRTOS PARES DE 0 A 100"
+// 
+//  
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 21/11/2022
+Var
+// Seção de Declarações das variáveis 
+IDADE: inteiro
+PESSOA: caractere
+SALA: inteiro
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+escreval("Por favor, digite o seu nome: ")
+leia (PESSOA)
+escreval("Por favor, digite a sua idade: ")
+leia(IDADE)
+escreval("SE CASO, " " ,IDADE," SALA)
+leia(SALA)
+Fimalgoritmo
