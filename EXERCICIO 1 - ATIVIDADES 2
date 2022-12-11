@@ -1,0 +1,21 @@
+Algoritmo "VELOCIDADE DO CARRO
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Luigi Aparecido Oska Silva
+// Data atual  : 05/12/2022
+Var
+// Seção de Declarações das variáveis 
+
+velo:real
+multa:real
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+escreval("qual a sua velociade")
+leia(veloc)
+se velo > 80 então
+escreval("você foi multado em R$ ")
+multa <- 5 * (veloc  - 80)
+escreval (multa)
+fimse
+Fimalgoritmo
